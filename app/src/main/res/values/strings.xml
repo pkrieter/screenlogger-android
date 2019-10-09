@@ -1,0 +1,8 @@
+<resources>
+<string name="app_name">ScreenLogger</string>
+<string name="app_descr">This app records you phone\'s screen and detects certain events in the video material to create a log file of your phone use. The list below shows all events the app is looking for, other events will not be tracked. Names of chat partners etc. will be anonymized and replaced. After detection of events, the resulting log files of your phone usage will be send to a server and stored anonymously. </string>
+<string name="recording_status">Recording Status</string>
+<string name="recording_descr">When active, your screen is being recorded and analyzed to create log files.</string>
+<string name="eventlist_headline">List of Events</string>
+</resources>
+
